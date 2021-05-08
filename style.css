@@ -23,3 +23,59 @@ body
 {
     text-shadow: none;
 }
+.campus_life
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.campus_life img
+{
+  width: 50%;
+}
+
+.campus_life hr
+{
+    width: 230px;
+}
+.achievement
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievement i
+{
+float: right;
+}
+
+.achievement span
+{
+color: #ff7700;
+}
+.whatsnew
+{
+  margin-top: 13px;
+}
+
+.whatsnew h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.whatsnew img
+{
+  border-radius: 25px;
+}
+
+.whatsnew p
+{
+  margin-top:10px;
+}
